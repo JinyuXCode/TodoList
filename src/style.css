@@ -1,0 +1,21 @@
+/* 一些常量 */
+
+:root {
+  /* Produto */
+  --Blue-Dark: #1e6f9f;
+  --Blue: #4ea8de;
+  --Purple-Dark: #5e60ce;
+  --Purple: #8284fa;
+
+  /* Base */
+  --Gray-700: #0d0d0d;
+  --Gray-600: #1a1a1a;
+  --Gray-500: #262626;
+  --Gray-400: #333333;
+  --Gray-300: #808080;
+  --Gray-200: #d9d9d9;
+  --Gray-100: #f2f2f2;
+
+  /* Feedback */
+  --Danger: #e25858;
+}
