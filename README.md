@@ -50,10 +50,10 @@
 ## 📷 页面预览
 
 > 首页效果  
-> ![首页预览](./assets/preview-home.png)
+> ![首页预览](./src/assets/preview-home.png)
 >
 > 任务管理界面  
-> ![任务管理预览](./assets/preview-task.png)
+> ![任务管理预览](./src/assets/preview-task.png)
 >
 
 ---
